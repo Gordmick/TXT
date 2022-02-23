@@ -1,0 +1,10 @@
+Skills1: GIT
+skills2: SDLC
+skills3: STLC
+skills4: SQL
+skills5: Charles
+skills6: Postman
+skills7: JS
+skills8: Linux
+skills9: Jmeter
+skills10: ADB
