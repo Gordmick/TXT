@@ -1,4 +1,4 @@
 Full name: Gordievskiy Mikhail Viktorovich
 age: 36
 pets: five sea fish
-future desired salary in dollars: 1500
+future desired salary in dollars: 1000
